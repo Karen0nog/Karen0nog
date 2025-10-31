@@ -6,7 +6,7 @@ Olá! Seja bem-vindo(a) ao ✨  **Meu Portfólio** ✨
 
 Este portfólio e todos os meus projetos atuais foram construídos utilizando as seguintes tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev)
 
 Você pode visualizar este portfólio online completo e todos meus projetos no link abaixo:
 
