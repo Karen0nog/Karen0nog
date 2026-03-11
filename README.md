@@ -18,4 +18,6 @@ Technologies I currently work with:
 - n8n (workflow automation and integrations)
 
 ---
+You can explore my complete online portfolio and all my projects at the link below:
 
+🌐[See More on My Website](https://karen0nog.github.io/Portfolio/)
