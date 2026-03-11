@@ -12,7 +12,9 @@ I’m passionate about technology and currently focused on building practical so
 
 Technologies I currently work with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,mysql,postgres)](https://skillicons.dev)
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,mysql,postgres,docker&perline=8&theme=light)
+
 
 ### ⚙️ Automation
 - n8n (workflow automation and integrations)
